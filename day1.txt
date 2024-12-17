@@ -1,1 +1,4 @@
 Hello Everyone, I am learning Git and GitHub and its Awesome!!!
+
+
+Nice , this is writing in day2, what should be write i don't uderstand.
